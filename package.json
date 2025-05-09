@@ -1,0 +1,23 @@
+{
+  "name": "lacyor-assets",
+  "version": "1.0.0",
+  "description": "静态资源仓库",
+  "keywords": [
+    "图床"
+  ],
+  "homepage": "https://github.com/LCMs-YoRHa/AssetsRepo#readme",
+  "bugs": {
+    "url": "https://github.com/LCMs-YoRHa/AssetsRepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LCMs-YoRHa/AssetsRepo.git"
+  },
+  "license": "ISC",
+  "author": "LacYor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
